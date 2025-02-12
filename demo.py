@@ -1,0 +1,1 @@
+print('New file has been created')
